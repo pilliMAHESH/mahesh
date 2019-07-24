@@ -1,0 +1,24 @@
+basic command of linux os:
+***Basics***
+1.list of folders and files --ls
+2.pwd--cureent working directory (shows only visible)
+     1.1>>ls -a (hidde and visible;)
+3.clear --> clearing history
+4.cd --> changing directory eg- cd foldername
+5.mkdir -->make a directory  eg-mkdir  prblm_solve_dir
+6.creating a file-->touch(creating the file),nano(creating and editig the file),echo(only singe line insertion),gedit,cat(display the contens of file)
+-------------------------------------------------------------
+Git and SVN are version controllers..
+are used to save the files of differsnt verions on cloud computing
+-----GIT commands----
+step-1:git init-->new project and creates the empty repository
+git config --global user.name 'some name'
+git config --global user.mail "ur mail id"
+git config user.name/mail
+git add filename.ext-->add file from untracked to tracked
+git commit -m 'Initial Comiit'--> commits the changes to file
+git log-->shows the commits made to file
+git status-->status of git
+-----------------------------------------------------------------
+git url-->https://github.com/Anil-a431/Gitam-Python |
+-----------------------------------------------------------------
